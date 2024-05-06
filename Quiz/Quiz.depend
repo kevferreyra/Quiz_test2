@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714955079 source:c:\users\user\onedrive\documentos\c\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
